@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#FFCE25</color>
+    <color name="colorPrimaryDark">#FFCE25</color>
+    <color name="colorAccent">#FFCE25</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="app_background">#FFFFFFFF</color>
+    <color name="app_background_grey">#FFF8F8F8</color>
+    <color name="app_divide">#FFEEEEEE</color>
+    <color name="app_divide_title_bar">#FFDFDFDF</color>
+    <color name="app_divide_dialog_title_bar">#FFEEEEEE</color>
+
+    <color name="app_item_pressed">#FFEEEEEE</color>
+
+    <color name="text_primary">#FF242332</color>
+    <color name="text_primary_grey">#7F242332</color>
+    <color name="text_summary">#FF999999</color>
+    <color name="text_un_select">#808080</color>
+    <color name="text_white">#FFFFFFFF</color>
+    <color name="text_gold">#FF785000</color>
 </resources>

@@ -10,6 +10,7 @@ import androidx.room.PrimaryKey
  */
 @Entity
 data class OperationData(
+    var componentId: Long,
     var time: Long,
     var desc: String
 ) {

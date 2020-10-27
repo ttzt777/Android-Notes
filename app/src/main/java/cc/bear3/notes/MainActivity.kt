@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         DbHelper.db.appDap().insertGroup(GroupData("第一组", "我是第一组", ""))
+
+        System.currentTimeMillis()
     }
 }

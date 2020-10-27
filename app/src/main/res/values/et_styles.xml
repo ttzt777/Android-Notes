@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditText">
+
+    </style>
+
+    <style name="EditText.Login">
+
+    </style>
+
+    <style name="EditText.Login.Password">
+
+    </style>
+</resources>

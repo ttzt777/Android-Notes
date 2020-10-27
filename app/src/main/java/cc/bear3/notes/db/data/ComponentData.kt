@@ -10,6 +10,7 @@ import androidx.room.PrimaryKey
  */
 @Entity
 data class ComponentData(
+    var productId: Long,
     var name: String,
     var desc: String,
     var image: String

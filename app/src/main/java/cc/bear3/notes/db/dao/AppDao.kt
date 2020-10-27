@@ -11,7 +11,7 @@ import cc.bear3.notes.db.data.GroupData
  * @since 2020-10-25
  */
 @Dao
-public interface AppDao {
+interface AppDao {
     @Query("SELECT * FROM GroupData")
     fun getAllGroup() : List<GroupData>
 
